@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Iman1167
+- 👋 Hi, I’m @Iman
 - 👀 I’m interested in Deep Learning, Machine Learning, Data Science
 - 🌱 I’m currently learning Python and Deep Learning
 - 💞️ I’m looking to collaborate on Data Science / Machine Learning / Deep Learning
