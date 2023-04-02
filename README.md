@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iman1167
-- 👀 I’m interested in Deep Learning, Python, Biomedical Image Processing, Biomedical Signal Processing, Hybrid fNIRS-EEG, CNN
+- 👀 I’m interested in Deep Learning, Machine Learning, Data Science
 - 🌱 I’m currently learning Python and Deep Learning
-- 💞️ I’m looking to collaborate on Biomedical Image/ Hybrid fNIRS-EEG Signals Processing
+- 💞️ I’m looking to collaborate on Data Science / Machine Learning / Deep Learning
 - 📫 How to reach me iman.ezatfar89@gmail.com
 
 <!---
